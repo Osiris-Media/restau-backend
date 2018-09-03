@@ -1,0 +1,10 @@
+{
+    "development": {
+        "PORT": 3000,
+        "MONGO_URI": "mongodb://localhost:27017/restauDB"
+    },
+    "production": {
+        "PORT": 80,
+        "MONGO_URI": "mongodb://xxxxx/restauDB"
+    }
+}
